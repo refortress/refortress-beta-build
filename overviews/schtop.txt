@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.12
+	ORIGIN	0 	0	-3532
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/schtop.bmp"
+	HEIGHT	-3532
+}

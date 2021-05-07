@@ -1,0 +1,10 @@
+Roasted_l
+ roasted_l.bsp
+
+Objective: 1: Fight your way to the Nme basement to the Flag.
+           2: Grab the Nme flag and return to your base
+		
+By: Bobo
+Copyright (c) 2000
+
+

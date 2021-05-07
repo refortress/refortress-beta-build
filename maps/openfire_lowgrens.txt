@@ -1,0 +1,18 @@
+Open Fire - Capture The Flag
+
+Objective: Enter the enemy Base and
+deactivate the lasers which guard access
+to their Flag. Grab the flag and bring it
+back to your Base. Place it on the glass
+square to Capture it. 
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds. Lasers stay deactivated
+for only 30 seconds.
+
+(This is the League edition)
+
+Edited by |HOP|raz, less grenades, so less spam, have fun!

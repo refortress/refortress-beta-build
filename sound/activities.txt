@@ -1,0 +1,540 @@
+{
+	"Shotgun.BeginReload": {
+		"v_anim": "start_reload"
+	},
+	"Shotgun.Reload": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/reload1.wav", "weapons/reload3.wav"],
+		"v_anim": "reload"
+	},
+	"Shotgun.EndReload": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/scock1.wav",
+		"v_anim": "pump"
+	},
+	"Shotgun.Draw": {
+		"v_anim": "draw"
+	},
+	"Shotgun.Fire": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/sbarrel1.wav",
+		"v_anim": "shoot"
+	},
+	"Shotgun.Empty": {
+		"channel": "WEAPON",
+		"volume": 0.8,
+		"pitch": 1.0,
+		"path": "weapons/357_cock1.wav"
+	},
+
+
+	"SuperShotgun.BeginReload": {
+		"v_anim": "start_reload"
+	},
+	"SuperShotgun.Reload": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/reload1.wav", "weapons/reload3.wav"],
+		"v_anim": "reload"
+	},
+	"SuperShotgun.EndReload": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/scock1.wav",
+		"v_anim": "pump"
+	},
+	"SuperShotgun.Draw": {
+		"v_anim": "draw"
+	},
+	"SuperShotgun.Fire": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/shotgn2.wav",
+		"v_anim": "shoot"
+	},
+	"SuperShotgun.Empty": {
+		"channel": "WEAPON",
+		"volume": 0.8,
+		"pitch": 1.0,
+		"path": "weapons/357_cock1.wav"
+	},
+
+
+	"Rpg.BeginReload": {
+		"v_anim": "rel_start"
+	},
+	"Rpg.Reload": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"v_anim": "rel_cycle"
+	},
+	"Rpg.EndReload": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"v_anim": "rel_end"
+	},
+	"Rpg.Draw": {
+		"v_anim": "draw1"
+	},
+	"Rpg.Fire": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/rocketfire1.wav",
+		"v_anim": "fire"
+	},
+	"Rpg.Empty": {
+		"channel": "WEAPON",
+		"volume": 0.8,
+		"pitch": 1.0,
+		"path": "weapons/357_cock1.wav"
+	},
+
+
+	"GL.BeginReload": {
+		"v_anim": "greload1"
+	},
+	"GL.Reload": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/gren_cock1.wav"
+	},
+	"GL.EndReload": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"v_anim": "greload2"
+	},
+	"GL.Draw": {
+		"v_anim": "gdraw"
+	},
+	"GL.Fire": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/glauncher.wav", "weapons/glauncher2.wav"],
+		"v_anim": "gfire"
+	},
+	"GL.Empty": {
+		"channel": "WEAPON",
+		"volume": 0.8,
+		"pitch": 1.0,
+		"path": "weapons/357_cock1.wav"
+	},
+
+
+	"PL.BeginReload": {
+		"v_anim": "preload1"
+	},
+	"PL.Reload": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/gren_cock1.wav"
+	},
+	"PL.EndReload": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"v_anim": "preload2"
+	},
+	"PL.Draw": {
+		"v_anim": "pdraw"
+	},
+	"PL.Fire": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/glauncher.wav", "weapons/glauncher2.wav"],
+		"v_anim": "pfire"
+	},
+	"PL.Empty": {
+		"channel": "WEAPON",
+		"volume": 0.8,
+		"pitch": 1.0,
+		"path": "weapons/357_cock1.wav"
+	},
+
+
+	"NG.Draw": {
+		"v_anim": "deploy"
+	},
+	"NG.Fire": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/airgun_1.wav"],
+		"v_anim": "shoot"
+	},
+	"NG.Empty": {
+		"channel": "WEAPON",
+		"volume": 0.8,
+		"pitch": 1.0,
+		"path": "weapons/357_cock1.wav"
+	},
+
+
+	"SNG.Draw": {
+		"v_anim": "deploy"
+	},
+	"SNG.Fire": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/spike1.wav", "weapons/spike2.wav"],
+		"v_anim": "shoot"
+	},
+	"SNG.Empty": {
+		"channel": "WEAPON",
+		"volume": 0.8,
+		"pitch": 1.0,
+		"path": "weapons/357_cock1.wav"
+	},
+
+
+	"AC.Draw": {
+		"v_anim": "draw"
+	},
+	"AC.ChargeUp": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/asscan1.wav",
+		"v_anim": "spinup"
+	},
+	"AC.ChargeDown": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/asscan3.wav",
+		"v_anim": "spindown"
+	},
+	"AC.Fire": {
+		"channel": "STATIC",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/asscan2.wav",
+		"v_anim": "fire"
+	},
+	"AC.Empty": {
+		"channel": "WEAPON",
+		"volume": 0.8,
+		"pitch": 1.0,
+		"path": "weapons/357_cock1.wav"
+	},
+
+
+	"Railgun.Draw": {
+		"v_anim": "draw"
+	},
+	"Railgun.Fire": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/railgun.wav"],
+		"v_anim": "fire"
+	},
+	"Railgun.Empty": {
+		"channel": "WEAPON",
+		"volume": 0.8,
+		"pitch": 1.0,
+		"path": "weapons/357_cock1.wav"
+	},
+
+
+	"Crowbar.Draw": {
+		"v_anim": "draw"
+	},
+	"Crowbar.Fire": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/cbar_miss1.wav",
+		"v_anim": "attack2"
+	},
+
+
+	"Medkit.Draw": {
+		"v_anim": "draw"
+	},
+	"Medkit.Fire": {
+		"v_anim": "shortuse"
+	},
+	"Medkit.Heal": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "items/medshot4.wav"
+	},
+	"Medkit.HealOver": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "items/medshot5.wav"
+	},
+
+
+	"Spanner.Draw": {
+		"v_anim": "draw"
+	},
+	"Spanner.Fire": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/cbar_miss1.wav",
+		"v_anim": "attack1"
+	},
+
+
+	"Knife.Draw": {
+		"v_anim": "draw"
+	},
+	"Knife.Fire": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "weapons/cbar_miss1.wav",
+		"v_anim": "stab"
+	},
+
+
+	"Tranq.BeginReload": {
+	},
+	"Tranq.Reload": {
+		"v_anim": "reload",
+		"v_bodynum": 1
+	},
+	"Tranq.EndReload": {
+	},
+	"Tranq.Draw": {
+		"v_anim": "draw",
+		"v_bodynum": 1
+	},
+	"Tranq.Fire": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/pl_gun1.wav", "weapons/pl_gun2.wav"],
+		"v_anim": "shoot",
+		"v_bodynum": 1
+	},
+	"Tranq.Empty": {
+		"channel": "WEAPON",
+		"volume": 0.8,
+		"pitch": 1.0,
+		"path": "weapons/357_cock1.wav"
+	},
+
+	"Conc.Explode": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/concgren_blast1.wav", "weapons/concgren_blast2.wav", "weapons/concgren_blast3.wav"]
+	},
+
+	"Emp.Explode": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/emp_1.wav"]
+	},
+
+	
+	"Detpack.Arm": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/mine_activate.wav"]
+	},
+
+	"Detpack.Warn": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/mine_charge.wav"]
+	},
+
+	"Detpack.Explode": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/mortarhit.wav"]
+	},
+
+
+	"Player.Spawn": {
+		"channel": "BODY",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["misc/r_tele1.wav", "misc/r_tele3.wav", "misc/r_tele4.wav"]
+	},
+
+
+	"Player.SaveMe": {
+		"channel": "VOICE",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["speech/saveme1.wav", "speech/saveme2.wav"]
+	},
+
+	"Player.Building": {
+		"channel": "STATIC",
+		"volume": 0.9,
+		"pitch": 1.25,
+		"path": ["weapons/building.wav"]
+	},
+
+	"Player.Pain": {
+		"channel": "VOICE",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["player/pain1.wav", "player/pain2.wav", "player/pain3.wav", "player/pain4.wav", "player/pain5.wav", "player/pain6.wav"]
+	},
+
+	"Player.Drowning": {
+		"channel": "VOICE",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["player/drown1.wav", "player/drown2.wav"]
+	},
+
+	"Player.Death": {
+		"channel": "VOICE",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["player/death1.wav", "player/death3.wav", "player/death4.wav", "player/death5.wav"]
+	},
+
+	"Player.Infected": {
+		"channel": "VOICE",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "player/death2.wav"
+	},
+
+	"Player.Drown": {
+		"channel": "VOICE",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["player/h2odeath.wav"]
+	},
+
+
+	"Sentry.Lock": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/turrspot.wav"]
+	},
+
+	"Sentry.FireBullet": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/pl_gun3.wav"],
+		"anim": "fire"
+	},
+
+	"Sentry.Idle": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"anim": "spin"
+	},
+
+	"Sentry.Off": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"anim": "idle_off"
+	},
+	
+	"Sentry.Activate": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/turrset.wav"]
+	},
+
+
+	"Dispenser.Activate": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/turrset.wav"]
+	},
+
+
+	"Dispenser.Resupply": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["items/ammopickup2.wav"]
+	},
+	
+	
+	"Armour.PickUp": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "items/armoron_1.wav"
+	},
+
+	"Armour.Respawn": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.5,
+		"path": "items/suitchargeok1.wav"
+	},
+
+
+	"AmmoBox.Discard": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "items/ammopickup1.wav"
+	},
+
+	"AmmoBox.PickUp": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": "items/ammopickup2.wav"
+	},
+
+	"Goal.NotCarried": {
+		"anim": "not_carried"
+	},
+
+	"Goal.Carried": {
+		"anim": "carried"
+	},
+
+	"Goal.Return": {
+		"channel": "ITEM",
+		"volume": 1.0,
+		"pitch": 1.5,
+		"path": "items/itembk2.wav"
+	},
+
+
+	"Crowbar.Clang": {
+		"channel": "WEAPON",
+		"volume": 1.0,
+		"pitch": 1.0,
+		"path": ["weapons/cbar_hit1.wav", "weapons/cbar_hit2.wav"]
+	}
+
+}

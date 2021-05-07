@@ -1,0 +1,102 @@
+08/02/2000
+===============================================================
+			  ShutDown II
+                    ----------------------
+                  A Team Fortress Classic Map
+===============================================================
+=========================
+INSTALLATION INSTRUCTIONS
+=========================
+Place shutdown2.bsp and shutdown2.txt in your halflife/tfc/maps/
+folder.
+
+Place red_up.wav, red_down.wav, blue_up.wav, blue_down.wav
+in your halflife/tfc/sound/stc/  folder.  NOTE:  you will have
+to make this folder first, then copy the files into it.
+
+	halflife/tfc/maps/	...shutdown2.bsp
+				...shutdown2.txt
+
+	halflife/tfc/sound/stc/	...red_up.wav
+				...red_down.wav
+				...blue_up.wav
+				...blue_down.wav
+===============================================================
+=========
+OBJECTIVE
+=========
+
+Deactivate the enemy's security at their control center.  
+
+Once deactivated, grab their flag, and run it back to your 
+capture point.
+
+Security will re-activate after 75 seconds.
+
+ SCORING:
+
+10 points to the player & Team for capturing the flag.
+===============================================================
+================
+File Information
+================
+
+Title:            ShutDown II
+BSP File:         shutdown2.bsp
+Author:           The_Cheese
+Email Address:    the_cheese@planethalflife.com
+Web Site:         http://www.planethalflife.com/cheese
+Level Size:       Medium
+Previous Maps:    Nightshift, Site B, Rapid 1, Rapid 2, Battle Camp, ShutDown
+
+===============================================================
+============
+CONSTRUCTION
+============
+Base:             From scratch
+Editor Used:      Worldcraft 2.1
+Machine Used:     PII300
+Build Time:       Around 4 weeks
+Compile Time:     2 hours
+Known Bugs:       None known
+
+This map has been tested in Software, Direct 3D, and OpenGL
+===============================================================
+======================
+ADDITIONAL INFORMATION
+======================
+
+Thanks go out to: 
+
+Everyone who sent in their ideas, etc. after playing the original
+ShutDown.
+
+WARchild for the playtest server
+
+All the playtesters!
+
+(}{)NoseHair, (}{)AnalHair, (}{)Revmaynard of the ShutDown Kamikaze
+laser death suicide squad!
+
+All the server admins who added ShutDown to their rotations.
+YOU GUYS ROCK!!
+
+If you play this map(and even enjoy it)I would certainly
+appreciate an email.  But you're not going to send one
+are you? :)
+
+=========
+LEGAL BIT
+=========
+Copyright / Permissions
+
+Copyright (c) 2000 Mark Hewitt All rights reserved.
+This level (ShutDown II) may be electronically distributed 
+only at no charge to the recipient, and may not be 
+modified in any way.  This text file(instructions.txt)
+and additional text file(shutdown2.txt) must be included 
+with the level. This level may not be included in any 
+commercial compilations without the express permission of 
+the author.
+
+Ta!

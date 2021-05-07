@@ -1,0 +1,65 @@
+<html>
+<body>
+<pre>Background:  This is a remake of the classic 2fort.  The purpose of this remake is to achieve a better state of play via fixing a few problems, namely:
+A: Remove the ability for engineers to build in respawns and resupplies, thereby ensuring defenders killed leave a hole in the defence for longer than 3 seconds
+B: Marginally widen some spam-prone locations such as the spiral and lift bottom
+C: Remove a few grenades from each bag, thereby ensuring less spam is available
+D: Fix many of 2fort's niggles, such as the lift resupply turret maiming offence members when a defender opens the door (skill no, lame yes, effective -- sadly yes)
+
+The name is just a nice imitation of QWTF's 2fortX (x being release version) coupled with the fact it's 2004.. 2k4 .. 2fort4 .. 2kfort4.  Woei.
+<h2>--------------------2kfort4.bsp----------------------------</h2>Title                   : 2kfort4
+Filename                : 2kfort4.bsp
+Date:			: 14/03/2004
+Author                  : Mark Simpson (Defrag) for remake / Valve Software for original
+Email Address           : defrag ( a t ) digwar.com (stop spambots hopefully)
+Description             : TeamFortress Classic CTF map
+Number of Teams		: 2
+Recommended # of Players: 10-16
+<h2>--------------------Technical Details----------------------</h2>Base Used		: The original 2fort, I decompiled it to ensure valve's dimensions were retained.  Many of the dimensions have been purposely altered for gameplay reasons.  Everything was built from scratch.
+New Textures		: Yes, compiled into BSP.  Thank you to ID software for the castle stuff and to uBeR for converting a lot of it.  I re-did / recoloured quite a few of the textures, too.
+New Sounds		: No.
+New Environment		: Yes -- Fullmoon.  Thanks to [WTF?]MoOg.  Few custom skies have me struggling to pick something else.. ;)
+Editor used		: Valve Hammer Editor 3.4
+Build time		: Roughly a day and a half for the main construction.. most of the time expended afterwards was getting feedback and tweaking things.
+Compile time		: Roughly 17 minutes with -full vis and -extra rad on Barton 2500 @ 3200 & 512 megs PC3200 RAM.
+<h2>--------------------Install Information--------------------</h2><b>Steam</b>
+Unzip the files to the /steam/steamapps/team fortress classic/ directory with paths enabled <b>_OR_</b> unzip the bsp & txt files to /steam/steamapps/team fortress classic/tfc/maps and the image files to /steam/steamapps/team fortress classic/tfc/gfx/env.
+
+<b>WON</b>
+Unzip the files to the /half-life/ directory with paths enabled <b>_OR_</b> unzip the bsp & txt files to /half-life/tfc/maps/ and the image files to /half-life/tfc/gfx/env.
+<h2>--------------------Play Information-----------------------</h2>2kfort4 - Standard CTF.
+Grab the enemy flag from their basement and capture it on the battlements of your base for 10 frags and 10 team points.
+<h2>--------------------Changes Since First Release------------</h2>Not too much, just general tweaks and things.  The main things:
+* Remade flags and cap points using entities to try and eliminate the "you captured the flag" message being delivered to all players for whatever reason (weird bug!)
+* Optimised some parts using the null texture on hidden faces
+* Added respawn turret to lift resupply in the corner so it cannot shoot offence members outside, but will protect defenders in the resupply
+* Moved grenade bag @ tsp up a few virtual feet so offence members do not take it by accident any longer
+* Added a secondary grenade to the far respawn's grenade bag so offence members can prime whilst picking up the bag and receive full concs
+* Optimised func_illusionaries in various parts of the maps by grouping them together where possible (engy sg building not affected)
+* Moved lift trigger so it behaves in the exact same manner as that of the original 2fort elevator
+* Lowered lift doorway in line with the original (no more snagging whilst concing / RJing to bottom lift area)
+* Lightened things a little more from b1
+* Removed protection to stop flag being thrown on top of the battlements because it impeded throwing grenades / pipes etc over the hut (be careful!)
+* Added BluR's face (excellent, if I may so bold as to comment myself)
+* Straightened grenade bags in far respawn (they were slightly squint... yes I'm sure you're reading this and care!)
+* Added the fullmoon sky
+* Slightly blue-ish lighting added
+* Some other minor things I can't remember now :<
+
+<h2>--------------------Notes and Known Bugs-------------------</h2>There are no bugs of which I am currently aware.  Please let me know if you find any!
+<h2>--------------------Thank You To the Following-------------</h2>r~ for all members' thorough help in playtesting
+The 404 guys for being .. 404 guys
+The WTF? guys even though I've not spoken to any of them (bar chem) for a while 'cause I couldn't load the forum
+All Far2cool / UKTFCL forum members for helping suggest and debug the map!
+All Catacombs forum members for providing me with the same service, cheers!
+Darth Greg for supplying me with a pickup HLTV run on the first beta
+The admins of #tf.gather for running quite a few pickups on the map
+The admins of the aS| server for running the map the moment it was into beta
+I would mention more specific individuals that helped me more than most, but the UKTFCL forum doesn't have a search function and cats still won't load for me (either DNS is broken or I'm banned :P) so I'm typing this out of (my non existent) memory
+MoOg for the sky
+ID for the textures
+uBeR for the original texture conversions
+The FF guys for their encouragement.
+</pre>
+</body>
+</html>

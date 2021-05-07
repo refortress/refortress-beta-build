@@ -1,0 +1,144 @@
+Stowaway2
+
+CTF style map for Half-Life Team Fortress 1.5 mod
+By UncleBRUCE. 13th February 2002
+
+v 1.0 (pre release)
+
+================================================================
+** General information**
+================================================================
+Title                   : Stowaway2
+Filename                : stowaway2.bsp
+Author                  : Keith Schoen (UncleBRUCE)
+Email		        : UncleBRUCE@btinternet.com
+Web Site		: http://www.planetfortress.com/unclebruce/
+Description             : A small to medium sized CTF
+
+
+Other maps by this author : 	No Mans Land
+				Domination
+				No Mans Land 2
+				No Mans Land 3
+				Stowaway
+				Stowaway_l
+				Insurrection
+
+Number of Teams		: 2
+Recommended # of Players: 16-18
+
+
+================================================================
+** Map information **
+================================================================
+New Textures		: none
+New Sounds		: none
+Tools used		: Worldcraft 3.3
+			: Q2BeaVeR compiler front end
+			: Zoner's compile tools v1.5
+Build time		: 2 days design, 5 days build, 2 weeks testing & modifying
+Compile Machine		: AthlonXP 1600+ 1.4GHz, 512MB RAM
+Compile time		: About 15 mins
+
+================================================================
+** Installation **
+================================================================
+
+Extract all the files from your zip into the "Half-Life" directory. 
+
+You should now be able to run this map from your own computer or play on another server which is running the map.
+
+If this does not work, e-mail me at the address above.
+
+
+================================================================
+** Team information **
+================================================================
+
+Blue team - No class limitations
+Red team - No class limitations
+
+
+================================================================
+** Game Rules **
+================================================================
+
+Objective: Enter the enemy Base and make your way to where their Flag resides in the flag room. Grab it and bring it back to your Battlements. Place it on the raised square to Capture it. 
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when they die. Dropped flags return to their Base after 60 seconds.
+
+================================================================
+** Additional information **
+================================================================
+
+Stowaway2 is my attempt to capture everything that was good in stowaway and enhance it, and try and tackle all the negative aspects of the origial map. The result is a similar sized map with the same basic layout, although some of the rooms have been shuffled about a bit. It retains the same basic connectivity of the original map, thus there are still two entrances to the flag room, and two entrances to the base plus a water entrace (without a boat this time). The lift area has received the most dramatic overhaul, with the whole area being widened to allow escaping flag carriers to avoid the air flow of the lift if it is on. I have also included a ladder to the side of the lift, which allows attackers to enter more silently from the lift area. The stairs entrance is no longer next to the respawn, and the grenade bag in the upper respawn has a much longer respawn delay, similar to the grenade bag found in 2fort. The flag room is larger than the orginal, and the flag is placed differently, with a raised platform under the base emblem for building sgs. Most of the other rooms have generally been redesigned and given a facelift. In short it it's not a cut & paste job, it is a completely new map built from scratch, but it retains the same feel and layout as the original map, thus it has been named Stowaway2.
+
+Hope you have fun playing,
+
+Regards,
+Keith Schoen (UncleBRUCE)
+
+If you have any comments you have regarding any of my maps, please contact me at the above address.
+
+================================================================
+** Special thanks to **
+================================================================
+
+Thanks to everyone in my TFC clan [SHS] who helped with the early beta testing.
+
+Thanks especially to [SHS]AphexTwin who made the promotional avi of the first beta, which can be downloaded from:
+http://www.teamshs.com/AphexTwin/movies/Stow2.avi
+
+Thanks to clan [SSK] for helping us with the clan testing.
+
+================================================================
+** Revision history **
+================================================================
+beta 1:
+
+* Original version
+
+beta 2
+
+* A few texture errors and missalignments corrected
+* The 'grate' from the ground to first floor made larger
+* Missing light in the red water tunnel corrected
+* Water added to flag room area
+
+beta 3
+
+* Water removed from flag room area again as it hindered SG building
+* A few more texture corrections
+* Tweaked resupply bags
+
+beta 4
+
+* Flag moved to opposite end of flag room
+* Platform added underneath the base emblem in flag room for SG building
+* Tweaked resupply bags
+
+beta 5 
+* Added bags to the flag room
+
+pre-release
+* tested for clan-suitability
+
+final
+
+* some small cosmetic changes to the respawns
+
+================================================================
+COPYRIGHT INFORMATION
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!
+
+Authors MAY NOT use this level as a base to build additional levels.  
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+
+You are NOT authorized to put this BSP on any CD or distribute it in any way without the authors permission.
+
+You are NOT authorized to include this map as part of a 'mappack' without the authors permission.
+================================================================

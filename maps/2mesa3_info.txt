@@ -1,0 +1,212 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: Two Mesa 3 (Build 37)
+Filename	: 2mesa3.bsp
+Author		: Walter Russell Swindell
+Author Email	: wrs01@iqmail.net
+Home page	: http://home.att.net/wrs01/
+Description	: A Capture The Flag map, designed for about
+		  12-16 people, but it should be able to handle more
+		  without getting spammy. The map is set on a large
+		  high mesa, where the two bases are divided by a
+		  ravine.
+
+
+------Credits and Thanks---------------------------------------------
+
+I changed my name from BarCode to Techniker.  :)
+
+Maniac: for the basic prefab of a rope bridge which I modified for 
+use in this map. Thanks!
+
+Clan BeefCake: for the hours, days and months of critiquing and 
+playtesting & also to PapaPup.
+
+Caroline, my wife: for understanding my need to code, create, 
+and visualize.
+
+Zoner: for some nice compile tools. :)
+
+And thanks to Valve for Half-life, and, of course, the producers of
+Worldcraft, for whom I owe this success!
+
+------Version Three Notes-------------------------------
+
+1) Flag Room - Made flag easy to get, but not too easy. Lazy O.
+2) Fixed a nasty brush bug in Red Flag Room.
+3) Tweaked some textures.
+4) Made the side-bridges destructible.  It will take a lot to take
+them down though.
+
+------Version Two Notes-------------------------------
+
+1) Flag Room - Ceiling made higher, flag raised.  In tests, this
+balanced things out a bit so it plays more like Well.
+2) Ramp Room - opened up, routes are the same, but defense in ramp
+room is less DM like.
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: Yes, Teamplay -> TFC
+Single Player	: No
+Map Description	: Two bases, red and blue. Separated by upper and
+		  lower cave section.
+How Many Players: 12+ in TFC. A very popular range. It should be fine
+                  with up to 32 players, r_speeds are low: 98 average.
+
+------Map Information------------------------------------------------
+
+New Textures	: nope
+New Sounds	: nope
+
+------Construction---------------------------------------------------
+
+Base		: No base, but inspired by some areas of solo game.
+Editor(s) used	: Worldcraft 2.1
+Compile Machine	: P3 500Mhz, 256MB Ram
+Compile time	: 45 minutes 50.5 seconds.
+Design time	: About three months, including playtesting.
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive into your half-life directory.
+The custom sky box will be installed as well.
+
+------Compile Log----------------------------------------------------
+
+hlcsg v1.5 rel (Dec  9 1999)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zhlt@bugs.dimensionalrift.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Program Files\WorldCraft\hlcsg.exe"-high c:\windows\desktop\2mesarev\2mesa3 
+1 thread(s)
+entering c:\windows\desktop\2mesarev\2mesa3.map
+CreateBrush:
+ (39 seconds)
+CSGBrush:
+ (17 seconds)
+Using WAD File: \sierra\half-life\valve\liquids.wad
+Using WAD File: \sierra\half-life\valve\halflife.wad
+Embedding textures from WAD File [\sierra\half-life\valve\zhlt.wad] into BSP
+Using WAD File: \sierra\half-life\tfc\tfc.wad
+added 12 additional animating textures.
+Texture usage is at 1.46 mb (of 4.00 mb MAX)
+58.27 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v1.5 rel (Dec  9 1999)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zhlt@bugs.dimensionalrift.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Program Files\WorldCraft\hlbsp.exe"-high c:\windows\desktop\2mesarev\2mesa3 
+writing c:\windows\desktop\2mesarev\2mesa3.prt
+21.15 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v1.5 rel (Dec  9 1999)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zhlt@bugs.dimensionalrift.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Program Files\WorldCraft\hlvis.exe"-high c:\windows\desktop\2mesarev\2mesa3 
+1 thread(s)
+1098 portalleafs
+2896 numportals
+BasePortalVis:
+ (15 seconds)
+LeafThread:
+ (163 seconds)
+average leafs visible: 99
+visdatasize:42279  compressed from 151524
+178.23 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlrad v1.5 rel (Dec  9 1999)
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (zhlt@bugs.dimensionalrift.com)
+-----  BEGIN  hlrad -----
+Command line: "C:\Program Files\WorldCraft\hlrad.exe"-extra -bounce 13 -verbose -high c:\windows\desktop\2mesarev\2mesa3 
+1 thread(s)
+[Reading texlights from 'lights.rad']
+[54 texlights parsed from 'lights.rad']
+
+7358 faces
+603387 square feet [86887760.00 square inches]
+40829 patches after subdivision
+864 direct lights
+
+BuildFacelights:
+ (949 seconds)
+visibility matrix   :  99.4 megs
+BuildVisLeafs:
+ (467 seconds)
+MakeScales:
+ (347 seconds)
+transfer lists      : 243.8 megs
+SwapTransfers:
+ (162 seconds)
+GatherLight:
+ (35 seconds)
+GatherLight:
+ (63 seconds)
+GatherLight:
+ (66 seconds)
+GatherLight:
+ (61 seconds)
+GatherLight:
+ (60 seconds)
+GatherLight:
+ (60 seconds)
+GatherLight:
+ (60 seconds)
+GatherLight:
+ (62 seconds)
+GatherLight:
+ (61 seconds)
+GatherLight:
+ (61 seconds)
+GatherLight:
+ (61 seconds)
+GatherLight:
+ (60 seconds)
+GatherLight:
+ (61 seconds)
+FinalLightFace:
+ (49 seconds)
+2750.50 seconds elapsed
+
+-----   END   hlrad -----
+
+
+
+------Copyright-Permissions------------------------------------------
+
+This template is available at The Radium Half-Life Map Center...
+http://www.planethalflife.com/radium
+
+Two Mesa 3 (2mesa3) is
+Copyright 1999, 2000 Walter Russell Swindell
+All Rights Reserved.
+
+Authors MAY NOT use this level as a base to build additional levels,
+unless you get permission from the author (wrs01@iqmail.net). 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+

@@ -1,0 +1,16 @@
+Two Mesa 3 by [CBC]Techniker
+
+Capture The Flag for 10 points
+Dropped flags return to their 
+Base after 45 seconds.
+
+Grates are Detpackable.  
+Side bridges can be destroyed. 
+All of the Resupply Packs can be 
+used by anyone.
+
+Note: Custom Sky is used, so download
+zip file from www.fileplanet.com
+(C) 1999 W. R. Swindell 
+All Rights Reserved.
+

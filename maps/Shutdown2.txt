@@ -1,0 +1,21 @@
+                   ========================
+                      ShutDown II
+                   ========================
+
+ OBJECTIVE:
+ ====================
+ Deactivate the enemy's security at 
+ their control center.  
+
+ Once deactivated, grab their flag, 
+ and run it back to your capture point.
+
+ Security will re-activate after 75 
+ seconds.
+
+ SCORING:
+ ================
+ 10 points to the player & Team for 
+ capturing the flag.
+
+www.planethalflife.com/cheese 

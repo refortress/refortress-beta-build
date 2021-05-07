@@ -1,0 +1,12 @@
+Objective: Enter the enemy Base and make
+your way to the flag room. Accessing FR by Conc allows landing
+on the platform! Forbidden escaping by water access in the
+basment!
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds.
+
+By MorZar

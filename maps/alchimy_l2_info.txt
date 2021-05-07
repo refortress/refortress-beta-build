@@ -1,0 +1,118 @@
+----------------------------------------------------------------------
+*******************************  A L C H I M Y ***********************
+Team Fortress Classic          30.12.02               MorZar's TFC map
+----------------------------------------------------------------------					
+
+	Objective: Enter the enemy Base and make
+	your way to the flag room. Accessing FR by Conc allows landing
+	on the platform! Forbidden escaping by water access in the
+	basment!
+
+	Scoring: 10 points per Capture.
+
+	Other Notes: Flag carriers drop the Flag when
+	they die. Dropped flags return to their Base
+	after 60 seconds.
+
+
+======== >
+MAP DESCRIPTION
+======== >
+
+		Name: 		Alchimy (alchimy.bsp)
+		Author:		MorZar
+				soulsoldier@freesurf.ch
+				(soon admin@morzar.ch)
+		Release:	11.12.02
+		Size:		2.6 Megs
+		Build Time:	1 year. (after 36000 beta)
+		Compile Time:	[2h07	]
+		
+
+======== >
+FILES IN ZIP
+======== >
+
+		alchimy.bsp		The map itself
+		alchimy.wad		Additionnal texture pack
+		alchimy_readme.txt	What you are reading now
+		alchimy.txt		In-game description
+		sky env's		natural sky
+		
+======== >
+INSTALLATION OF ALCHIMY
+======== >
+
+		Using Winzip, just unzip everything in "HALF-LIFE"
+		directory. file path go automaticaly in their
+		respective folders.
+
+		If you want to install these files manually, here is
+		a description of what goes where ^^
+
+	>> alchimy.bsp <<		>> .../Half-life/tfc/maps	<<
+	>> alchimy.wad <<		>> .../Half-life/tfc/     	<<
+	>> alchimy.txt <<		>> .../Half-life/tfc/maps     	<<
+	>> skyfiles    <<		>> .../Half-life/tfc/gfx/env   	<<
+
+
+======== >
+MAP CREDITS
+======== >
+
+	Main Mapper    ...	MorZar
+	Mapping Help   ...	KoKo5oVar; Auto-; eat
+	Map Testing    ...	KoKo5oVar
+				Hack
+				n8
+				Auto-
+				Tx`-
+				TFCHQ's Mapping contest testers
+				
+
+	Tools used     ...	Valve hammer editor
+				Winbsp
+				Sprviewer
+				Wally
+				some HLDMC texture
+				ZHLT'S 2.5.3
+				And tfc :P
+
+	Sky env	       ...	Justin fisher
+				http://quake.stuff.gen.nz/
+
+======== >
+CONTACT MAPPER AND MAPPING CHANNELS
+======== >
+
+	Using MirC, connect to the quakenet network ( irc.quakenet.org )
+	and join these following channels to find me, or just to see.
+
+	#maps		...		Our mapping channel
+	#tfchq		...		Team Fortress Classic HQ
+	#cmf-maps	...		French Mapping Community for CS
+	#hlmgs		...		Come and help us!
+
+		
+======== >
+ADITIONNAL STUFF
+======== >
+
+	>> Feel free to submit your comments by email, if you liked or
+	not, if you located some b0gs or else. 
+
+	>> FORBIDDEN ! escaping by the water access in the basment!
+
+
+
+	Here are some links I
+	invite you to visit.
+
+		http://morzar.free.fr  		>> My personnal ftp
+		http://www.morzar.fr.st 	>> My website
+		(soon http://www.morzar.ch)
+
+
+- enJoy -
+
+MorZar

@@ -1,0 +1,13 @@
+Schtop - Capture The Flag
+By eat
+
+Objective: Make your way to the enemy base and
+deactivate the security system to gain access 
+to the flag room. Bring the flag back to your 
+base for 10 points. The balcony route lasers 
+are also deactivated by the security system.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds. The security remains down 
+for 60 seconds

@@ -1,0 +1,16 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/*.bmp
+/*.dem
+/*.cfg
+/logs
+/logos
+/models
+/SAVE
+/buffer.dat
+/custom.hpk
+/voice_ban.dt
+/tempdecal.wad
+
+!/config.cfg
+!/listenserver.cfg
+!/server.cfg

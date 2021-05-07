@@ -1,0 +1,17 @@
+=====================================
+Bases2k3 by [WTF?]Defrag
+=====================================
+PLAY INFORMATION:
+
+Storm the enemy flag room and steal their flag.
+Capture it on the battlements of your base.
+15 points per capture, 10 personal frags per capture.
+
+Alternative goal: 
+Detpack the computer in the FR for 5 team points.
+
+Keep an eye on the secret wall area :)
+
+This is an update to bases2k1 and 2k2 intended for 9v9 leagueplay
+Software crash bug fixed!
+========================

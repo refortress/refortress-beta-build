@@ -1,0 +1,24 @@
+     Generic Mortality [League Variant]	
+	===========================
+
+Objective: Enter the enemy base and make
+your way to the flag room.
+Return the flag to your base on the raised
+platform in the lobby to capture it. 
+
+Scoring: 10 team points per Capture
+         5 personal points per Capture
+
+Notes: Flag carriers drop the flag when
+they die. Dropped flags return to their base
+after 60 seconds.
+
+That's not an invisible wall there's a fan 
+at the end of the corridor. 
+
+This map was designed for advanced (i.e. 
+weapon-assisted-jumping e.t.c) players.
+
+Created By: Wildfire
+Homepage: www.teamshs.com
+E-Mail: Wildfire@UnrealFortress.com

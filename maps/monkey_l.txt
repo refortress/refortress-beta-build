@@ -1,0 +1,25 @@
+Monkey - Cap The Flag
+
+Objective: Grab the enemy flag, and take it to
+your capture point to score.
+
+
+Scoring: 10 team points per cap, plus 10 points 
+to the capper.
+
+
+Notes:
+
+- You can only swim INTO the bases through the water,
+  you can't use the water route to get out.
+
+- Untouched flags return after 60 seconds.
+
+- The sack o' goodies on each teams balcony can be used
+  by either team.
+
+- Cheese Rules All!
+
+
+
+www.planethalflife.com/cheese

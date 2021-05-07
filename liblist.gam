@@ -1,0 +1,12 @@
+// refortress Game Info file
+//  These are key/value pairs.  Certain mods will use different settings.
+//
+game "refortress"
+url "http://www.refortress.com"
+mpentity "info_tfdetect"
+gamedll "dlls\refortress.dll"
+gamedll_linux "dlls/refortress.so"
+secure "1"
+type "multiplayer_only"
+fallback_dir "tfc"
+icon "game"

@@ -1,0 +1,166 @@
+[WTF?] Defrag [DW] |404| - bases2k3.bsp
+
+**** This map designed for the TeamFortress Classic Half-Life mod ****
+04/12/2002 
+================================================================
+Title                   : Bases2k3 
+Filename                : bases2k3.bsp
+Author                  : Mark Simpson (Defrag) - An update of my reworking of the classic "bases_r2" with permission
+Email Address           : general_george_oj@yahoo.com
+Description             : TeamFortress Classic CTF map
+
+Number of Teams		: 2
+Recommended # of Players: 14-18
+
+================================================================
+New Textures		: none
+New Sounds		: none
+Editor used		: Worldcraft 3.3
+Build time		: a few hours for this update.... ages observing feedback.
+			: Initial work for bases2k1 took 2-3 days.
+================================================================
+
+INSTALL INFORMATION:
+
+Unzip to your half-life directory with "use folders" checked =or=
+
+Unzip the .bsp file to the sierra/half-life/tfc/maps directory
+Unzip the .tga/.bmp files to your sieraa/half-life/tfc/gfx/env/ directory
+
+If you have Oppose2k1 by deride or bases2k1/2k2/8v8 then you already have the sky installed and don't need to install it again.
+
+================================================================
+PLAY INFORMATION:
+
+Storm the enemy flag room and steal their flag, capture it on the battlements of your base.
+15 points per capture, 10 personal frags per capture.
+
+Alternative goal: Detpack the computer in the FR for 5 team points + 5 frags.
+
+Keep an eye on the secret wall area :)
+
+================================================================
+Changes to 2k3
+
+Software crash bug FIXED (I wouldn't release an update other than for this specific reason)
+Small entity changes
+Secret wall changed back to look like the _r2 version, no outline to make attacking the secret area more beneficial.
+Small texture changes
+Removed raised flag platform in the FR and replaced it with a floor pattern, makes piping flag easier / stops bouncy grens.
+
+================================================================
+
+Changes since last Release:
+
+- Added 3d logo (only took 5 mins :D )
+- Ammo bags face the correct way now
+- Unfortunate water entrance bug has arisen.  I've not changed the map at all, I expect it's a fgd / game patch that's done it... you stop about 2/3 of the way up the tunnel which means attacking via water takes a few seconds longer
+- Nogren entities added to RR ceiling.  It is now IMPOSSIBLE to nailgren exploit the FR defence.  It's probably not perfect v EMPs unless the sentry is as far back as the flag, in which case it should be so hard to hit, it's a waste of time trying.
+- The no gren ents come quite low down but shouldn't disrupt gameplay or stop legit grenades.
+- Secret pack now gives 50 health and 100 armour to ANY team.  Secret pack respawns pretty quickly.
+- Secret airlift now is very quiet, the button doesn't make any noise.  This should mean the secret defender can't go and help out the fr defence so easily because he can't hear people coming up the lift from the btm of the fr ramp.  It also means you can go restock in the enemy base again \o/
+- kink in secret pack area added
+- ladder added to airlift so you can climb up quietly (stops the audible thud when you land from the fall)
+- respawn pads now are twice as fast, should mean multiple people can restock at once.
+- Lighting changed in certain areas (dimmer to encourage spies)
+- I lost my lights.rad file and only had an ancient backup so certain lighting areas are different, took me ages to get the glow of the water anything like as nice as it was in 2k1.  Not very noticeable anyway... took long enough though :P
+- update - got it perfect again :)
+- Textures changed in a few obscure areas.
+- Signs added to point towards battlements
+- grenades reduced to 1/1 per pack to reduce spammage!
+- vent narrowed from last beta, but still wider than 2k1
+- red lights replaced with blue in the blue base :P 
+- yadda yadda
+
+================================================================
+Previous changes made to Bases2k1 in beta:
+
+Scoring bug fixed - didn't find the cause, just remade all the entities.  Weird.
+Tweaked lighting - brigher all round and dimmer outside for an atmospheric look.
+Fixed some rogue texturing.
+Put an invisible func_wall under the airlift to stop flags falling in there.
+Clipped the sides of some ladders to make them easier to climb.
+Narrowed the Front Door to Ramp Room ramp because it was too wide, and encouraged HWs over sols.
+Changed flag messages.
+Changed respawn door speed and the lip settings
+Fixed Texturing on 2 of the respawn doors
+Found and deleted overlapping brush in the water tunnel - couldn't see it before anyway
+Added wind noise outside.
+Some more stuff I've forgotten about already.
+
+================================================================
+
+Notes:
+
+Outside R_speeds could be better but are pretty much within acceptable limits.
+Generally r_speeds are <500 in all places, and <400 in action zones.
+
+Nailgren bug is toast, kudos to [-RvR-]theNiggy for his suggestion which worked perfectly.
+
+This is not a rip of any kind. I totally remade the map and I have the permission of the bases_r2 author.
+
+================================================================
+
+THANKS TO:
+
+The authors of the maps:
+QWTF bases
+TFC Bases_r
+TFC Bases_r2
+
+[WTF?]MoOg for the great sky! (I couldn't find a more moody atmospheric night sky anywhere ;)
+
+[WTF?] [DW] |404| [CSI] [MUF] for playtesting with me, thanks guys :D
+Other credits to:
+
+Georgie : ran it on the MUF server and didn't kick me in the nuts for a few hours of boring testing.
+Octane : ran it on the CSI server with some CSI guys, thanks!
+PainZernat0r: helping me with this release and running it on the 187 server 
+TheNiggy: suggested how to implement anti-nailgren / EMP 
+
+Testers (2k3 + 8v8):
+
+Ellybuns
+Wid
+Archerz
+Nest
+Najt
+Wiz
+DamagE
+Fragripper
+PainZerNatoR-ArGoS
+Spermy 
+Biblious (sp? :P)
+
+Testers (2k1):
+
+Union
+Wonka 
+Okpod
+Epoch
+Nada
+Fisich
+Chance
+Nest
+Scopes
+Fryguy
+Lou
+MoOg
+
+All of the catacombs posters who commented, all of the UKTFCL peeps who commented and all the WP peeps too.
+Too many people to mention :)
+
+Thanks to Job / Gengh for prodding me on to fix this long-standing issue, thanks to me for twigging ;)
+
+THANKS PPL!
+
+Please send all comments to either defrag@digwar.com or post on the http://digwar.com / http://clan404.com forums :)
+Thanks
+
+================================================================
+>>>COPYRIGHT INFORMATION<<<
+blah blah blah don't rip off this update of an update, of an update of a conversion of a QWTF map. ;)
+If you want to put this on a CD coverdisk (like a bonus CD for a mag with extra maps) feel free but please notify me :).
+You may not distribute this zip unless the contents are exactly as you found them.
+You may not include this map for distrubution if the scheme is for financial gain.  If I find this map on a "map CD" like some german company are doing atm (selling a CD of maps for £10 or so and making a profit where it's not theirs to sell) then you will be hearing from me.
+================================================================
